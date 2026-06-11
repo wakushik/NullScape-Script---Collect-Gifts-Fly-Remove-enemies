@@ -1,0 +1,3 @@
+-- Use xeno or Solara Pwease :3
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wakushik/NullScape-Script---Collect-Gifts-Fly-Remove-enemies/refs/heads/main/Protected%20Code"))()
