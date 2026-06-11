@@ -18,11 +18,11 @@ Cool script that can help you farm or play
 
 ## [ Features ]
 
-*  Auto COllecting Gifts + Golden Gifts
+*  Auto Collecting Gifts + Golden Gifts
 
 * Fly ( Not Detected)
 
-* Remove enteties (May be bugged sometimes)
+* Remove enemies (May be bugged with some enemies sometimes)
 
 * Gift Esp
 
