@@ -1,4 +1,4 @@
-# Machiws: Flood Escape teleport tool ;3
+# Machiws: NullScape cool script
 
 ---
 
